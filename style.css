@@ -1,0 +1,10 @@
+body{
+    background-color: #5c91e0;
+}
+h1{
+    /* background-color: #fca5a5; */
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    margin-left: 20px;
+    margin-top: 20px;
+}
